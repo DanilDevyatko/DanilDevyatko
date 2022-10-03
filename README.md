@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Danil👋:bulb:
+## Hi, I'm Danil👋
 I'm a Front-end developer👨‍💻. I have strong knowledge of HTML & CSS, cross-browser web products, also native JavaScript knowledge (from installation plugins to coding own)
 
 ### Skills:
