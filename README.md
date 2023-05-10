@@ -19,7 +19,7 @@ I'm a Front-end developer👨‍💻. I have strong knowledge of HTML & CSS, cro
 
 ### Skills:
 
-  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
+  ![HTML]
   ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript "")
   ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=Sass "")
