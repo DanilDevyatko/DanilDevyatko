@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Danil👋
-I'm a Front-end developer👨‍💻. I have strong knowledge of HTML & CSS, cross-browser web products, also native JavaScript knowledge (from installation plugins to coding own)
+I'm a Software Engineer with over 5 years of experience specializing in crafting user-friendly front-end and client-side products. I excel in creating responsive and cross-browser-compatible web pages using HTML, CSS, JavaScript, TypeScript, React.js, and Redux.
 
+My approach involves researching best practices to deliver effective solutions that keep projects on track. Embracing the "ownership mindset," I actively contribute to the entire software development lifecycle, supporting the design, development, and testing of enterprise application solutions.
+
+Choose a Software Engineer committed to delivering seamless user interfaces and project success. Let's collaborate to bring your software development goals to fruition with precision and innovation.
 ### Skills:
 
   ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5)
@@ -28,7 +31,4 @@ I'm a Front-end developer👨‍💻. I have strong knowledge of HTML & CSS, cro
   ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=Photoshop "")
   ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=Figma "")
 
-👯I like to work with great people and share information also I want to be useful to humanity. I had experience as a mentor.
-  I enjoy learning something new and feel proud if I can help somebody. I like to communicate and discuss with a cup of tea something.
-
-🌱I’m currently learning React.js
+👯I love working with amazing people, sharing knowledge, and making a positive impact on humanity.
