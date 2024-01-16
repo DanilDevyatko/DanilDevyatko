@@ -28,7 +28,6 @@ Choose a Software Engineer committed to delivering seamless user interfaces and 
   ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=Sass "")
   ![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat&logo=Stylelint "")
   ![BEM](https://img.shields.io/badge/-BEM-black?style=flat&logo=BEM "")
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=Photoshop "")
   ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=Figma "")
 
 👯I love working with amazing people, sharing knowledge, and making a positive impact on humanity.
